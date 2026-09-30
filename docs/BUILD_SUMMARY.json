@@ -1,0 +1,23 @@
+{
+  "build_date": "2026-09-30T02:08:25.254124",
+  "source_root": "/content/drive/MyDrive/GENE",
+  "repository": "/content/drive/MyDrive/GENE/CURATED_GITHUB_REPOSITORY",
+  "analysis_code_files": 4,
+  "final_reproducibility_files": 23,
+  "manuscript_figures_copied": 0,
+  "manuscript_figures_expected_later": 3,
+  "full_PART_31_copied": false,
+  "source_files_modified": false,
+  "github_packaging": {
+    "status": "prepared",
+    "date": "2026-09-30",
+    "gitignore_added": true,
+    "citation_cff_added": true,
+    "readme_created": true,
+    "provenance_created": true,
+    "license_added": false,
+    "figures_copied": false,
+    "figure_slots_reserved": 3,
+    "full_part31_working_directory_copied": false
+  }
+}

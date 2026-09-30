@@ -1,0 +1,10 @@
+Results_section,Result,Interpretation
+Drosophila accessibility,1.504–1.690× accessibility,Elevated sequence-derived accessibility
+Drosophila proto-ORF architecture,4.1701× proto-ORF enrichment,Enrichment of defined coding-compatible configurations
+Drosophila matched/null robustness,"+44.472 to +56.049 per 1,000; P=0.0002–0.0009",Robustness under matched/null framework
+Drosophila sequence architecture,Sequence-feature AUC approximately 0.917–0.933,Strong predictive sequence architecture
+Mouse candidate validation,119 published candidates,Independent published candidate set
+Mouse direct CDS validation,23/119 exact,Current-CDS sequence consistency
+Mouse transcript validation,55/119 additional exact,Current transcript sequence consistency
+Mouse exon consistency,39/55 fully exon-consistent; 2 partial; 14 CDS-unconfirmed,Current exon-space consistency for most transcript matches
+Cross-species evidence,Complementary sequence-level evidence,Complementary but not identical mechanisms

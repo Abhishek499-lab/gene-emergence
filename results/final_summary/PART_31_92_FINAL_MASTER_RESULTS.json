@@ -1,0 +1,41 @@
+{
+  "project": "GENE EMERGENCE",
+  "part": "31.92",
+  "purpose": "Final provenance-aware consolidation of locked Drosophila and Mouse evidence.",
+  "Drosophila": {
+    "accessibility": "1.504\u20131.690\u00d7",
+    "matched_effect": "+44.472 to +56.049 per 1,000",
+    "permutation_P": "0.0002\u20130.0009",
+    "proto_ORF_enrichment": "4.1701\u00d7",
+    "matched_extension_delta": "-0.018235",
+    "sequence_feature_AUC": "approximately 0.917\u20130.933",
+    "accessibility_only_AUC": "0.8006",
+    "sequence_plus_accessibility_AUC": "0.9325",
+    "sequence_only_AUC": "0.9318"
+  },
+  "Mouse": {
+    "published_candidates": 119,
+    "direct_current_CDS_exact": 23,
+    "additional_transcript_exact": 55,
+    "both_routes": 0,
+    "any_exact_validation": 78,
+    "any_exact_validation_percent": 65.55,
+    "no_exact_validation": 41,
+    "exon_consistent": 39,
+    "partial_exon": 2,
+    "CDS_unconfirmed": 14
+  },
+  "historical_reconstruction": {
+    "historical_route_verified": false,
+    "ancestral_sequence_verified": false,
+    "historical_mutation_order_verified": false,
+    "historical_gene_birth_reconstructed": false
+  },
+  "causal_interpretation": {
+    "causality_established": false,
+    "positive_selection_established": false,
+    "universal_mechanism_established": false
+  },
+  "central_model": "The completed analyses support a sequence-level model in which young-gene candidate sequences can show elevated accessibility to short coding-compatible proto-ORF configurations, while an independent mouse candidate dataset provides substantial present-day sequence validation. The historical transition from non-genic DNA to a particular young gene remains unresolved.",
+  "final_claim": "The strongest defensible interpretation is a computationally supported sequence-level model relevant to young-gene emergence, not a direct reconstruction of individual historical gene-birth events."
+}

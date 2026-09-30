@@ -1,0 +1,6 @@
+Claim_level,Statement,Evidence
+Strongly supported,Drosophila candidate sequences show elevated one-nucleotide accessibility to short coding-compatible proto-ORF configurations.,1.504–1.690× accessibility; matched/null effects
+Strongly supported,Drosophila candidates show enrichment of the defined short coding-compatible proto-ORF configurations.,4.1701× enrichment
+Strongly supported,Mouse provides present-day exact sequence validation for 78/119 published candidates.,78/119 = 65.55%
+Supported with limitation,The Drosophila and Mouse datasets provide complementary sequence-level evidence relevant to young-gene emergence.,Drosophila accessibility + Mouse sequence validation
+Not demonstrated,A specific historical mutation sequence caused a particular young gene to emerge.,Historical route/ancestral sequence/mutation order not verified

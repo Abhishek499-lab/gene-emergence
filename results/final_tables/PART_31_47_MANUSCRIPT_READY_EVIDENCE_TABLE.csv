@@ -1,0 +1,9 @@
+Evidence stage,Primary observation,Quantitative result,Interpretation,Evidence level,Main limitation
+Candidate framework,"13,968 historical-universe records → 834 candidates → 555 retained + 279 rejected",555 retained / 279 rejected,Defined young-gene candidate framework,Established,Does not itself establish historical gene birth
+ORF architecture,Observed ORF-like architecture exceeds shuffle framework,458.7465 vs 110.0094; 4.1701×,Supporting evidence for coding-compatible sequence structure,Supporting,Not a historical mutation reconstruction
+One-NT accessibility,Elevated accessibility across proto-ORF thresholds,"1.504×, 1.505×, 1.598×, 1.690×",Strongest mechanistic signal,Strong,"Computational accessibility, not observed historical mutation"
+Matched accessibility null,Positive effect after matching,"+56.049, +53.065, +48.254, +44.472 per 1000 possible mutations",Accessibility enrichment persists under matched comparison,Strong,Effect represents computational accessibility
+Permutation significance,Matched null distributions,"p = 0.0003, 0.0004, 0.0002, 0.0009",Observed accessibility exceeds matched null expectation,Strong,Statistical significance does not establish historical causality
+Proto-ORF → longer ORF,No extension advantage after tight length/GC matching,0.82937 vs 0.84761; Δ = −0.01824,Extension is not supported as an independent enrichment mechanism,Negative / clarifying,"Computational accessibility analysis, not biological disadvantage"
+Extension sensitivity,Leave-one-pair-out analysis,−0.02066 to −0.01529,Direction is not driven by one complete matched pair,Sensitivity supported,2 of 193 pairs lacked event-level extension data
+Historical reconstruction,Ancestral sequence / mutation order / birth branch unavailable,Not verified,Routes represent computational accessibility rather than historical trajectories,Limitation,Exact historical gene-birth event remains unresolved

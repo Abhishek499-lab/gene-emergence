@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+.colab/
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.log
+
+# Python build
+build/
+dist/
+*.egg-info/
+
+# Local working files
+scratch/
+tmp/
+working/
+WORKING/
+PART_31_WORKING/
+
+# Colab runtime artifacts
+drive-download/
+content/
+
+# IMPORTANT:
+# Final reproducibility data, final results and figures
+# are intentionally NOT ignored.

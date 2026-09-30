@@ -1,0 +1,87 @@
+
+GENE EMERGENCE — FINAL MASTER RESULTS
+======================================
+
+DROSOPHILA
+----------
+
+Accessibility:
+1.504–1.690×
+
+Matched effect:
++44.472 to +56.049 per 1,000
+
+Permutation P:
+0.0002–0.0009
+
+Proto-ORF enrichment:
+4.1701×
+
+Matched extension:
+Δ = -0.018235
+
+Sequence-feature AUC:
+approximately 0.917–0.933
+
+Accessibility-only AUC:
+0.8006
+
+Sequence-only AUC:
+0.9318
+
+Sequence + accessibility AUC:
+0.9325
+
+
+MOUSE
+-----
+
+Published candidates:
+119
+
+Direct current-CDS exact:
+23/119 = 19.33%
+
+Additional transcript-exact:
+55/119 = 46.22%
+
+Both routes:
+0
+
+Any exact validation:
+78/119 = 65.55%
+
+No exact validation:
+41/119 = 34.45%
+
+Among 55 transcript-exact:
+
+Fully exon-consistent:
+39/55 = 70.91%
+
+Partial exon:
+2/55 = 3.64%
+
+CDS-unconfirmed:
+14/55 = 25.45%
+
+
+FINAL INTERPRETATION
+--------------------
+
+The completed analyses support a computationally supported
+sequence-level model relevant to young-gene emergence.
+
+Drosophila provides evidence for elevated one-nucleotide
+accessibility toward short coding-compatible proto-ORF
+configurations.
+
+Mouse provides independent present-day sequence validation
+for 78/119 published candidates.
+
+The historical mutation sequence, ancestral sequence,
+historical mutation order, causal mechanism, and selective
+basis of individual gene births were not directly established.
+
+Therefore the results should not be described as a direct
+reconstruction of historical gene-birth events.
