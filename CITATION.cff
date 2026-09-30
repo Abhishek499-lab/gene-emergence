@@ -1,16 +1,9 @@
 cff-version: 1.2.0
+message: "If you use this repository, please cite it using these metadata."
 title: "GENE EMERGENCE — Curated Reproducibility Repository"
-version: "1.0.0"
-type: software
-license: "NOASSERTION"
-abstract: "Curated reproducibility repository for the computational GENE EMERGENCE project, containing analysis code, final reproducibility datasets, validated results, manuscript tables, and provenance documentation."
-message: "If you use this repository, please cite the GENE EMERGENCE reproducibility release."
 authors:
   - family-names: "Topno"
     given-names: "Abhishek"
-keywords:
-  - "gene emergence"
-  - "de novo genes"
-  - "computational biology"
-  - "gene evolution"
-  - "reproducibility"
+type: software
+abstract: "Curated reproducibility repository for the computational GENE EMERGENCE project, containing analysis code, final reproducibility datasets, validated results, manuscript tables, and provenance documentation."
+repository-code: "https://github.com/Abhishek499-lab/gene-emergence"
